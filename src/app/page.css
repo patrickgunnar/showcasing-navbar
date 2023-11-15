@@ -1,0 +1,46 @@
+.galadriel_7baae10c-3625 { width: 100% }
+.galadriel_575d7fd5-3625 { width: auto }
+.galadriel_5541d792-3625 { height: 70px }
+.galadriel_59ca7688-3625 { height: auto }
+.galadriel_c5374c64-3625 { margin: 0 5px }
+.galadriel_b5675348-3625 { padding: 5px }
+.galadriel_efa1e72a-3625 { padding: 10px 20px }
+.galadriel_e7e9b140-3625 { padding: 10px }
+.galadriel_481ca7c6-3625 { display: flex }
+.galadriel_a63ad447-3625 { display: none }
+.galadriel_a24959ce-3625 { position: relative }
+.galadriel_ff976194-3625 { position: absolute }
+.galadriel_5b5f1d16-3625 { flex-direction: column }
+.galadriel_c25c777a-3625 { justify-content: center }
+.galadriel_9bc99bfc-3625 { justify-content: start }
+.galadriel_3d2707bb-3625 { align-items: center }
+.galadriel_3d865673-3625 { background: linear-gradient(to right, #396afc, #2948ff) }
+.galadriel_0f123a1b-3625:hover { background-color: #192d9b }
+.galadriel_e3dc0997-3625 { font-family: 'Comfortaa', sans-serif }
+.galadriel_4ffd2f74-3625 { font-size: 30px }
+.galadriel_4c2c54b1-3625 { font-size: 16px }
+.galadriel_5d19c75f-3625 { font-weight: bold }
+.galadriel_151f12b7-3625 { font-weight: 500 }
+.galadriel_73412a70-3625 { color: white }
+.galadriel_9207694a-3625 { gap: 10px }
+.galadriel_2896bd10-3625 { border-radius: 5px }
+.galadriel_78e1ded3-3625 { box-shadow: 0 6px 10px rgba(0,0,0,0.4) }
+.galadriel_cd345f6a-3625 { opacity: 1 }
+.galadriel_5b8332ca-3625 { opacity: 0 }
+.galadriel_4936ff74-3625 { cursor: pointer }
+.galadriel_bdb17e31-3625 { left: 10px }
+.galadriel_774f78bb-3625 { top: 60px }
+.galadriel_d328f4bc-3625 { visibility: visible }
+.galadriel_32ef9017-3625 { visibility: hidden }
+.galadriel_be97dfd6-3625 { list-style: none }
+.galadriel_de2fa024-3625 { box-sizing: border-box }
+.galadriel_7bc20933-3625 { user-select: none }
+.galadriel_607d1b43-3625 { transition: all 0.3s ease }
+@media screen and  (min-width: 768px) { 
+	.galadriel_909b6f76-4bc7-3625 { justify-content: space-between }
+	.galadriel_1605f9eb-4bc7-3625 { padding: 10px 30px }
+	.galadriel_668ac47e-4bc7-3625 { display: block }
+	.galadriel_cd3a4aa3-4bc7-3625 { gap: 30px }
+	.galadriel_575d7fd5-4bc7-3625 { width: auto }
+	.galadriel_c33da8e4-4bc7-3625 { font-size: 18px }
+ }
